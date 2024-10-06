@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>Journal</title>
+ <link href="http://localhost:4000/atom.xml" rel="self"/>
+ <link href="http://localhost:4000/"/>
+ <updated>2024-10-06T21:36:36+07:00</updated>
+ <id>http://localhost:4000</id>
+ <author>
+   <name></name>
+   <email></email>
+ </author>
+
+ 
+ <entry>
+   <title>Feeling bad</title>
+   <link href="http://localhost:4000/2024/04/09/feeling-bad"/>
+   <updated>2024-04-09T00:00:00+07:00</updated>
+   <id>http://localhost:4000/2024/04/09/feeling-bad</id>
+   <content type="html">&lt;p&gt;today i accidentally hurt you. i feel really bad. i didn’t mean any of it. i hurt you over and over again even though i try my best to treat you right. i feels like, want to hurt myself everty time i hur you. i’m sorry.&lt;/p&gt;
+
+&lt;p&gt;i will do my best in the future.&lt;/p&gt;
+
+&lt;p&gt;i love you so muchl. it kills me when you feels unsafe around me&lt;/p&gt;
+
+&lt;p&gt;gosh.&lt;/p&gt;
+
+&lt;p&gt;i’m so stupid.&lt;/p&gt;
+
+&lt;p&gt;how f i let out my impulsiveness.&lt;/p&gt;
+
+&lt;p&gt;dumbass.&lt;/p&gt;
+
+&lt;p&gt;i promise to myself to never do anything to hurt you again. i wish you can always be patien with me&lt;/p&gt;
+
+&lt;p&gt;please don’t leave. i love you.&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>An argument</title>
+   <link href="http://localhost:4000/2024/02/09/first-post"/>
+   <updated>2024-02-09T00:00:00+07:00</updated>
+   <id>http://localhost:4000/2024/02/09/first-post</id>
+   <content type="html">&lt;p&gt;we have an argument today. but as always, we can handle it in the end. you’re the fire, and i’m the water. so, we can work it out. i swear i’m not leaving you whatever the condition is. i love you.&lt;/p&gt;
+
+&lt;p&gt;you know what? i realize that i can handle my emotions well when i’m with you. i don’t know the reason is. but, whenever you mood is bad, i only take few minitues to think clearly and do the comforting stuff. in the end, i know that i love you so much that i hold back my ego, to keep you.&lt;/p&gt;
+</content>
+ </entry>
+ 
+
+</feed>

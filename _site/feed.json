@@ -1,0 +1,58 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Journal",
+    "home_page_url": "http://localhost:4000/",
+    "feed_url": "http://localhost:4000/feed.json",
+    "description": "Journey of us",
+    "icon": "http://localhost:4000/apple-touch-icon.png",
+    "favicon": "http://localhost:4000/favicon.ico",
+    "expired": false,
+    
+    "author": "{"twitter"=>nil, "name"=>nil, "avatar"=>nil, "email"=>nil, "url"=>nil}",
+    
+"items": [
+    
+        {
+            "id": "http://localhost:4000/2024/04/09/feeling-bad",
+            "title": "Feeling bad",
+            "summary": null,
+            "content_text": "today i accidentally hurt you. i feel really bad. i didn’t mean any of it. i hurt you over and over again even though i try my best to treat you right. i feels like, want to hurt myself everty time i hur you. i’m sorry.i will do my best in the future.i love you so muchl. it kills me when you feels unsafe around megosh.i’m so stupid.how f i let out my impulsiveness.dumbass.i promise to myself to never do anything to hurt you again. i wish you can always be patien with meplease don’t leave. i love you.",
+            "content_html": "<p>today i accidentally hurt you. i feel really bad. i didn’t mean any of it. i hurt you over and over again even though i try my best to treat you right. i feels like, want to hurt myself everty time i hur you. i’m sorry.</p><p>i will do my best in the future.</p><p>i love you so muchl. it kills me when you feels unsafe around me</p><p>gosh.</p><p>i’m so stupid.</p><p>how f i let out my impulsiveness.</p><p>dumbass.</p><p>i promise to myself to never do anything to hurt you again. i wish you can always be patien with me</p><p>please don’t leave. i love you.</p>",
+            "url": "http://localhost:4000/2024/04/09/feeling-bad",
+            
+            
+            
+            
+            
+            "date_published": "2024-04-09T00:00:00+07:00",
+            "date_modified": "2024-04-09T00:00:00+07:00",
+            
+                "author": 
+                "{"twitter"=>nil, "name"=>nil, "avatar"=>nil, "email"=>nil, "url"=>nil}"
+                
+            
+        },
+    
+        {
+            "id": "http://localhost:4000/2024/02/09/first-post",
+            "title": "An argument",
+            "summary": null,
+            "content_text": "we have an argument today. but as always, we can handle it in the end. you’re the fire, and i’m the water. so, we can work it out. i swear i’m not leaving you whatever the condition is. i love you.you know what? i realize that i can handle my emotions well when i’m with you. i don’t know the reason is. but, whenever you mood is bad, i only take few minitues to think clearly and do the comforting stuff. in the end, i know that i love you so much that i hold back my ego, to keep you.",
+            "content_html": "<p>we have an argument today. but as always, we can handle it in the end. you’re the fire, and i’m the water. so, we can work it out. i swear i’m not leaving you whatever the condition is. i love you.</p><p>you know what? i realize that i can handle my emotions well when i’m with you. i don’t know the reason is. but, whenever you mood is bad, i only take few minitues to think clearly and do the comforting stuff. in the end, i know that i love you so much that i hold back my ego, to keep you.</p>",
+            "url": "http://localhost:4000/2024/02/09/first-post",
+            
+            
+            
+            
+            
+            "date_published": "2024-02-09T00:00:00+07:00",
+            "date_modified": "2024-02-09T00:00:00+07:00",
+            
+                "author": 
+                "{"twitter"=>nil, "name"=>nil, "avatar"=>nil, "email"=>nil, "url"=>nil}"
+                
+            
+        }
+    
+    ]
+}
