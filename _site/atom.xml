@@ -4,7 +4,7 @@
  <title>Journal</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2024-10-07T08:52:27+07:00</updated>
+ <updated>2024-10-07T13:21:17+07:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name></name>
@@ -13,11 +13,113 @@
 
  
  <entry>
+   <title>Never leave</title>
+   <link href="http://localhost:4000/2024/09/14/never"/>
+   <updated>2024-09-14T00:00:00+07:00</updated>
+   <id>http://localhost:4000/2024/09/14/never</id>
+   <content type="html">&lt;p&gt;i’ll never leave you&lt;/p&gt;
+
+&lt;p&gt;i’ll never hate you&lt;/p&gt;
+
+&lt;p&gt;always.&lt;/p&gt;
+
+&lt;p&gt;i promise.&lt;/p&gt;
+
+&lt;p&gt;i love you&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Meeting you</title>
+   <link href="http://localhost:4000/2024/09/13/meet"/>
+   <updated>2024-09-13T00:00:00+07:00</updated>
+   <id>http://localhost:4000/2024/09/13/meet</id>
+   <content type="html">&lt;p&gt;ah, i want to meet you&lt;/p&gt;
+
+&lt;p&gt;my feelings are overflowing.&lt;/p&gt;
+
+&lt;p&gt;i want to comfort you with my hug and kiss&lt;/p&gt;
+
+&lt;p&gt;i want you to feel my love for you&lt;/p&gt;
+
+&lt;p&gt;i’ll come to you, i promise&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>I need you</title>
+   <link href="http://localhost:4000/2024/09/11/need"/>
+   <updated>2024-09-11T00:00:00+07:00</updated>
+   <id>http://localhost:4000/2024/09/11/need</id>
+   <content type="html">&lt;p&gt;i need you
+i want you
+i crave for you&lt;/p&gt;
+
+&lt;p&gt;please don’t leave me&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Honeymoon</title>
+   <link href="http://localhost:4000/2024/09/10/honeymoon"/>
+   <updated>2024-09-10T00:00:00+07:00</updated>
+   <id>http://localhost:4000/2024/09/10/honeymoon</id>
+   <content type="html">&lt;p&gt;baby, i realize we don’t really have a honeymoon phase. i really feel we already known for a long time. i know how to love you, but everyday i always learn how to love you better&lt;/p&gt;
+
+&lt;p&gt;i’ll make myself worth it for you&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>I&apos;m so in love with you</title>
+   <link href="http://localhost:4000/2024/09/05/inlove"/>
+   <updated>2024-09-05T00:00:00+07:00</updated>
+   <id>http://localhost:4000/2024/09/05/inlove</id>
+   <content type="html">&lt;p&gt;i’m so inlove with you.&lt;/p&gt;
+
+&lt;p&gt;i’ll do anything for you and our relationship. please don’t give up on us ya? don’t leave me. i’m scare you will get tired of me but i’ll still doing my best to reassure you.&lt;/p&gt;
+
+&lt;p&gt;i love you&lt;/p&gt;
+
+&lt;p&gt;-–&lt;/p&gt;
+
+&lt;p&gt;as long as you’re with me, i’ll be fine&lt;/p&gt;
+
+&lt;p&gt;you’re my medicine. i already feel better when i’m thinking of you&lt;/p&gt;
+
+&lt;p&gt;your voice soothe my brain. its a lullaby for my ears&lt;/p&gt;
+
+&lt;p&gt;you’re my moon, you makes me feel safe&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>My love</title>
+   <link href="http://localhost:4000/2024/09/04/my-love"/>
+   <updated>2024-09-04T00:00:00+07:00</updated>
+   <id>http://localhost:4000/2024/09/04/my-love</id>
+   <content type="html">&lt;p&gt;i love seeing your smile. the smile that i want to protect. i swear no one gonna take your smile from you&lt;/p&gt;
+
+&lt;p&gt;i’ll fight anyone who hurt you. your smile is so angelic that i think “wow, she love me? really? do i deserve her?”. damn, i fall in love with you all over again.&lt;/p&gt;
+
+&lt;p&gt;you’re my everything, my priority. my highest priority. you’re my world, my home. i’ll always come back to you, no matter what. i dont want to hurt you. i’ll protect you. you’re mine, i’m yours. i love you&lt;/p&gt;
+
+&lt;p&gt;i love you more than your moodiness, more than your sensitivity, more than your bad and good day, more than everything in the world. i wish you the happiness, always. i’m sorry i always make mistakes. i swear i’m trying, for you and for us&lt;/p&gt;
+
+&lt;p&gt;-–&lt;/p&gt;
+
+&lt;p&gt;my love, i’ll never say hurt things to you again in the future. i’ll try my best to love you. so, will you love me? will you be patient with me? i’ll never leave, please don’t be scared of me&lt;/p&gt;
+
+&lt;p&gt;that’s all for tonight. goodnight. i love you, always&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
    <title>Feeling bad</title>
-   <link href="http://localhost:4000/2024/04/09/feeling-bad"/>
-   <updated>2024-04-09T00:00:00+07:00</updated>
-   <id>http://localhost:4000/2024/04/09/feeling-bad</id>
-   <content type="html">&lt;p&gt;today i accidentally hurt you. i feel really bad. i didn’t mean any of it. i hurt you over and over again even though i try my best to treat you right. i feels like, want to hurt myself everty time i hur you. i’m sorry.&lt;/p&gt;
+   <link href="http://localhost:4000/2024/09/04/feeling-bad"/>
+   <updated>2024-09-04T00:00:00+07:00</updated>
+   <id>http://localhost:4000/2024/09/04/feeling-bad</id>
+   <content type="html">&lt;p&gt;today i accidentally hurt you. i feel really bad. i didn’t mean any of it. i hurt you over and over again even though i try my best to treat you right.&lt;/p&gt;
 
 &lt;p&gt;i will do my best in the future.&lt;/p&gt;
 
@@ -35,14 +137,23 @@
 
 &lt;p&gt;please don’t leave. i love you.&lt;/p&gt;
 
+&lt;p&gt;i don’t know what can i do now except saying sorry and trying to comfort you. i’m not tired, i know myself but i really feels like i’d rather hurt myself than hurting you. should i SH again? but you will hate me and blame yourself (which i know it’s not your fault)&lt;/p&gt;
+
+&lt;p&gt;i don’t know what i should do&lt;/p&gt;
+
+&lt;p&gt;-–&lt;/p&gt;
+
+&lt;p&gt;i love you too deep. you own me&lt;/p&gt;
+
+&lt;p&gt;i will be the person who will love you unconditionally and love you right. you deserve it. you deserver the best version of me. i’ll prove myself to you. just wait, my love. i love you&lt;/p&gt;
 </content>
  </entry>
  
  <entry>
    <title>An argument</title>
-   <link href="http://localhost:4000/2024/02/09/first-post"/>
-   <updated>2024-02-09T00:00:00+07:00</updated>
-   <id>http://localhost:4000/2024/02/09/first-post</id>
+   <link href="http://localhost:4000/2024/09/02/first-post"/>
+   <updated>2024-09-02T00:00:00+07:00</updated>
+   <id>http://localhost:4000/2024/09/02/first-post</id>
    <content type="html">&lt;p&gt;we have an argument today. but as always, we can handle it in the end. you’re the fire, and i’m the water. so, we can work it out. i swear i’m not leaving you whatever the condition is. i love you.&lt;/p&gt;
 
 &lt;p&gt;you know what? i realize that i can handle my emotions well when i’m with you. i don’t know the reason is. but, whenever you mood is bad, i only take few minitues to think clearly and do the comforting stuff. in the end, i know that i love you so much that i hold back my ego, to keep you.&lt;/p&gt;
