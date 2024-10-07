@@ -2,11 +2,69 @@
 layout: default
 ---
 
+<head>
+  <style>
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+    }
+
+    .post {
+      padding: 20px;
+      max-width: 800px;
+      margin: auto;
+      box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+      background-color: #fff;
+      border-radius: 8px;
+    }
+
+    h2 {
+      font-size: 1.5em;
+      margin-bottom: 10px;
+    }
+
+    .meta {
+      color: #666;
+      font-size: 0.9em;
+    }
+
+    a {
+      color: #3498db;
+      text-decoration: none;
+    }
+
+    a:hover {
+      text-decoration: underline;
+    }
+
+    @media (max-width: 600px) {
+      .post {
+        padding: 15px;
+      }
+
+      h2 {
+        font-size: 1.25em;
+      }
+
+      .meta {
+        font-size: 0.8em;
+      }
+    }
+  </style>
+</head>
+
 <section class="post">
   <h2>{{ page.title }}</h2>
   {{ content }}
-  <span class="meta"><time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %-d, %Y" }}</time> &middot; {% for tag in page.tags %}
-    <a href="/tag/{{tag}}">{{tag}}</a>{% unless forloop.last %}, {% endunless %}{% endfor %}</span>
+  <span class="meta">
+    <time datetime="{{ page.date | date_to_xmlschema }}">
+      {{ page.date | date: "%B %-d, %Y" }}
+    </time> &middot; 
+    {% for tag in page.tags %}
+      <a href="/tag/{{tag}}">{{tag}}</a>{% unless forloop.last %}, {% endunless %}
+    {% endfor %}
+  </span>
 </section>
+
 
 
