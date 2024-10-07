@@ -6,18 +6,33 @@ layout: compress
 <html lang="en">
   {% include head.html %}
   <body>
-    <main style="display: flex; flex-direction: column; align-items: center;">
+    <main style="display: flex; flex-direction: column; align-items: center; padding: 0 10px;">
       <div style="text-align: left; width: 100%;">
         <h1>&#x1F99D + &#x1F9A6</h1>
       </div>
-      <div style="display: flex; width: 100%; justify-content: flex-start;">
-        <div style="flex: 1; max-width: 200px;">
+      <div style="display: flex; width: 100%; justify-content: flex-start; flex-wrap: wrap;">
+        <div style="flex: 1; max-width: 200px; width: 100%;">
           {% include navigation.html %}
         </div>
-        <div style="flex: 3; padding-left: 20px;">
+        <div style="flex: 3; padding-left: 20px; width: 100%;">
           {{ content }}
         </div>
       </div>
     </main>
+
+    <style>
+      @media (max-width: 768px) {
+        main {
+          padding: 0;
+        }
+        div[style*="flex: 1;"] {
+          max-width: none;
+          width: 100%;
+        }
+        div[style*="flex: 3;"] {
+          padding-left: 0;
+        }
+      }
+    </style>
   </body>
 </html>
